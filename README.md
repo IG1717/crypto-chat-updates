@@ -1,1 +1,1 @@
-# crypto-chat-updates
+# SAR High School Cryptocurrency and Blockchain Club Updates Generator
